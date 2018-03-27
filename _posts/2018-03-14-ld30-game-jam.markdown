@@ -1,0 +1,12 @@
+---
+title: LD30 Game Jam Timelapse
+subtitle: Ludum Dare 30 Timelapse
+layout: default
+modal-id: 2
+date:  2018-03-14
+img: white_pixel.png
+thumbnail: http://img.youtube.com/vi/FFA-QPGuuYU/0.jpg
+alt: https://i2.ytimg.com/vi/FFA-QPGuuYU/hqdefault.jpg
+project-date:
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/FFA-QPGuuYU" frameborder="0" allowfullscreen></iframe>
+---

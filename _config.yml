@@ -1,0 +1,76 @@
+#url: http://ottumwa1stchurch.github.io
+url: http://portfolio.jimhowk.com/
+#baseurl: /agency-jekyll-theme/
+baseurl:
+# Site settings:
+title: Jim Howk - Portfo
+title2: Jim Howk <span style="font-size:.65em"> - </span> <span style="font-size:.85em">Portfolio</span>
+#title: Open Bible
+
+email: howkj1@gmail.com
+
+description: "Welcome to my portfolio"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  #primary: E84F00  ### burnt orange
+  #primary: 749FD0  ### sarah suggestion
+  primary: 2E67A6  ### blue
+  #primary:115198    ### dark blue
+  #secondary: ff971c  ### light orange
+  # BB0808 ### light maroon
+  #secondary: FFB70F   ### lighter yellow
+  secondary: 033cfe
+  secondary-dark: 333
+
+graphics:
+  background-image: marbles.jpg
+
+
+
+people:
+- name: Jim Howk
+  pic: jim_howk
+  position: Technical, Creative, Leader, Entrepreneur
+  social:
+    - title: github
+      url: https://github.com/howkj1
+    - title: twitter
+      url: https://twitter.com/howkj1
+    - title: linkedin
+      url: https://www.linkedin.com/in/jimhowk/
+
+# other-people:
+# - name: --
+#   pic: KatieKeith
+#   position: Director
+#   social:
+#
+# - name: --
+#   pic: travisandsarah
+#   position: Leaders
+#   social:
+#
+# - name: --
+#   pic: KurtisRupe
+#   position: Director
+#   social:
+
+social:
+
+  - title: facebook
+    url:
+
+# Postal address (add as many lines as necessary)
+address:
+  - line:
+  - line:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+collections:
+  events:
+    output: true
+    permalink: /events/:title:output_ext
